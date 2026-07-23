@@ -1,4 +1,4 @@
-![BiteSight](https://github.com/valgrind-r/BiteSight/blob/main/src/assets/logonobg.png)
+![BiteSight](https://github.com/intelliduck28/bitesight-node/blob/main/assets/logonobg.png)
 
 # BiteSight
 
